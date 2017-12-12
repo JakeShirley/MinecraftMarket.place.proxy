@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-marketplace-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-http-proxy": "^1.1.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.2.2"
+  }
+}
